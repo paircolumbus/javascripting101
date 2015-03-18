@@ -1,8 +1,8 @@
 #Javascripting
-__Skill Level:__ Beginner
+__Skill Level:__ Beginner  
 __Time Limit:__ 30 minutes  
 
-This drill was created by the awesome folks at NodeSchool. 
+This drill was created by the awesome folks at NodeSchool. It's ideal for those who have little to no experience with Javascript. Enjoy!
 
 ##Instructions
 - Install [Nodejs](https://nodejs.org/download/) if you don't have it. 
@@ -13,9 +13,7 @@ _NOTE:_ You can check by opening your terminal and running `node -v`. The versio
 - Run the command `javascripting` and follow the instructions
 
 ##You're Finished When...
-You've completed the challenge and opened a pull request with your source code (i.e. javascript files).  
-
-See Jay's branch if you're unsure of what your branch should look like.
+You've completed the challenge and opened a pull request with your source code (i.e. javascript files). See Jay's branch if you're unsure of what your branch should look like.
 
 ##Resources
 - [Codecademy: Javascript](http://www.codecademy.com/en/tracks/javascript)
