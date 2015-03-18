@@ -2,7 +2,7 @@
 __Skill Level:__ Beginner  
 __Time Limit:__ 30 minutes  
 
-This drill was created by the awesome folks at NodeSchool. It's ideal for those who have little to no experience with Javascript. Enjoy!
+This drill was created by [Seth Vincent](https://github.com/sethvincent) for NodeSchool. It's ideal for those who have little to no experience with Javascript. Enjoy!
 
 ##Instructions
 - Install [Nodejs](https://nodejs.org/download/) if you don't have it. 
