@@ -9,7 +9,7 @@ This drill was created by [Seth Vincent](https://github.com/sethvincent) for Nod
 
 _NOTE:_ You can check by opening your terminal and running `node -v`. The version should be higher than `0.10.32`
 - Update npm by running `sudo npm install npm -g` from within your terminal. 
-- Install this challenge by running `npm install -g javascripting`
+- Install this challenge by running `sudo npm install -g javascripting`
 - Run the command `javascripting` and follow the instructions
 
 ##You're Finished When...
